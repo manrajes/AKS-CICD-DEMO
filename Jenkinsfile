@@ -8,7 +8,7 @@ pipeline {
         RESOURCE_GROUP = 'RG-Lab-Test-USEAST'
         
         // Add your Azure Tenant ID here so the login command works
-        YOUR_AZURE_TENANT_ID = 'your-azure-tenant-id-here' 
+        YOUR_AZURE_TENANT_ID = 'a648f127-64a6-426c-9c47-c95edb08d66d' 
         
         // Jenkins Credential IDs
         AZURE_CRED_ID = 'Azure-Service-Principal' 
