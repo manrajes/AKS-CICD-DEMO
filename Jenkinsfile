@@ -1,6 +1,6 @@
 groovy
 pipeline {
-    agent any
+ agent any
     
     environment {
         // Change these to match your Azure Environment
