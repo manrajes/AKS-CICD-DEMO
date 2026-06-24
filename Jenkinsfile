@@ -1,7 +1,7 @@
 groovy
 pipeline {
- agent any
-    
+    agent any
+ 
     environment {
         // Change these to match your Azure Environment
         ACR_NAME = 'manrajacr2485' // e.g., myregistry if URL is myregistry.azurecr.io
