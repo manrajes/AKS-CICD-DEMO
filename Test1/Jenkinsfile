@@ -9,7 +9,7 @@ pipeline {
         RESOURCE_GROUP = 'RG-Lab-Test-USEAST'
         
         // Jenkins Credential IDs
-        AZURE_CRED_ID = 'azure-service-principal' // Set up in Jenkins Credentials
+        AZURE_CRED_ID = 'Azure-Service-Principal' // Set up in Jenkins Credentials
         ACR_CRED_ID = 'acr-credentials' // Set up in Jenkins Credentials
     }
     
